@@ -1,7 +1,7 @@
 {
     "app-id": "com.cassidyjames.dippi",
     "runtime": "org.gnome.Platform",
-    "runtime-version": "49",
+    "runtime-version": "51",
     "sdk": "org.gnome.Sdk",
     "command": "com.cassidyjames.dippi",
     "finish-args": [
@@ -21,8 +21,8 @@
                 {
                     "type": "git",
                     "url": "https://github.com/cassidyjames/dippi.git",
-                    "tag": "5.0.2",
-                    "commit": "f774cb109d3c405700559df659c390770579b1f1",
+                    "tag": "5.0.3",
+                    "commit": "5de9046b81a3d8e470ba28c9ede0b6b6e679d5b0",
                     "x-checker-data": {
                         "type": "git",
                         "tag-pattern": "^([\\d.]+)$"
