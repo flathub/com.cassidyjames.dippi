@@ -21,8 +21,8 @@
                 {
                     "type": "git",
                     "url": "https://github.com/cassidyjames/dippi.git",
-                    "tag": "5.0.3",
-                    "commit": "5de9046b81a3d8e470ba28c9ede0b6b6e679d5b0",
+                    "tag": "5.0.4",
+                    "commit": "8f590490a56f35aba5cc3c919655ee3cf9d9b570",
                     "x-checker-data": {
                         "type": "git",
                         "tag-pattern": "^([\\d.]+)$"
